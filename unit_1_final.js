@@ -1,6 +1,13 @@
 /*
     Unit 1 : Final
     Please work on this file. Once you're done upload this on canvas.
+    
+    You may have your code editor and terminal open.
+
+    Turn off your Wifi and any other applications: browsers, notes, etc.
+
+    Once you are done, turn on your Wifi come back to the page on 
+    canvas and submit your modified `unit_1_final.js` file.
 */
 
 
